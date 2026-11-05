@@ -44,7 +44,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="discovery.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/dis.png" ,Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506720_ca878b1b.jpg" group-title="Sky",Tv 8
+#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506720_ca878b1b.jpg" ,Tv 8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="NOVE.it" tvg-logo="https://www.davidefulgione.com/uploads/community/logo/u1_1366ea06325a.jpg" ,NOve
@@ -80,7 +80,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507101_72ca61de.jpg" ,Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507178_896f22ff.jpg" group-title="Sky",Cielo
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507178_896f22ff.jpg" ,Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507282_23aa9d31.jpg" ,Twenty Seven
