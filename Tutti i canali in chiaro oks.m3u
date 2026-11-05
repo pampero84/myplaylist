@@ -137,4 +137,10 @@ https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom.it" tvg-chno="51" tvg-country="IT" ,TGCOM 24
 https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 
+#EXTM3U
+#EXTINF:-1,Paradise Hill - VOD 054 - My Sexy Kittens 14 Part 1
+https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="" group-title="Adulto Live",AdultM3u.com Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
 
